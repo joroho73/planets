@@ -23,7 +23,7 @@ custom_params = {"axes.spines.right": False, "axes.spines.top": False,"axes.spin
 sns.set_theme(context='paper',
               font_scale = 0.8,
               style = 'darkgrid',
-              rc={'text.color':'w',
+              rc={'text.color':'b',
                   'grid.color': 'b',
                   'lines.color': 'b',
                   'lines.markerfacecolor': 'b',
