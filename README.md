@@ -2,6 +2,8 @@
 
 This python script creates a scatter plot of planets.
 
+View the code in [planets.py](planets.py) 
+
 It uses the following libraries:
 * matplotlib
 * numpy
